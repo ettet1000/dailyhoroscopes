@@ -1,0 +1,65 @@
+{
+    "sign": {
+        "capricorn":                            "山羊座",
+        "aquarius":                                    "水瓶座",
+        "pisces":                                    "うお座",
+        "aries":                                    "牡羊座",
+        "taurus":                                    "おうし座",
+        "gemini":                                    "ジェミニ",
+        "cancer":                                    "癌",
+        "leo":                                    "レオ",
+        "virgo":                                    "乙女座",
+        "libra":                                    "天秤座",
+        "scorpio":                                    "さそり座",
+        "sagittarius":                                    "射手座"
+    },
+    "splash": {
+        "welcome":                                    "毎日のホロスコープ"
+    },
+    "onBoard": {
+        "page1": {
+            "title":                                    "毎日の星占い",
+            "desc":                                    "昨日,今日,明日の毎日の星占い。"
+        },
+        "page2": {
+            "title":                                    "ホロスコープの詳細",
+            "desc":                                    "ホロスコープの互換性,ムード,色,ラッキー ナンバー,ラッキー アワーなどの詳細を予測します。"
+        },
+        "page3": {
+            "title":                                    "使いやすい",
+            "desc":                                    "星占いの予測を簡単にたどることができます。"
+        },
+        "getStarted":                                    "始めましょう",
+        "onBoardSubView": {
+            "name":                                    "名前",
+            "date":                                    "生年月日",
+            "button":                                    "保存"
+        }
+    },
+    "home": {
+        "appBarTitle":                                    "毎日の星占い",
+        "welcome":                                    "いらっしゃいませ, ",
+        "tabBar": {
+            "yesterday":                                    "昨日",
+            "today":                                    "今日",
+            "tomorrow":                                    "明日"
+        },
+        "explore":                                    "探検",
+        "luckyNumber":                                    "ラッキーナンバー",
+        "luckyTime":                                    "ラッキータイム",
+        "color":                                    "色",
+        "mood":                                    "ムード",
+        "dateRange":                                    "日付範囲",
+        "compatibility":                                    "互換性",
+        "alert": {
+            "title":                                    "ログアウト",
+            "desc":                                    "本当にログアウトしますか?",
+            "continue":                                    "継続する",
+            "cancel":                                    "キャンセル"
+        }
+
+    },
+    "notFound":                                    "見つかりません",
+    "isValidName":                                    "名前が無効です!",
+    "isValidBirthDate":                                    "生年月日が無効です！"
+}

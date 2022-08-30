@@ -1,0 +1,65 @@
+{
+    "sign": {
+        "capricorn":                              "Capricorne",
+        "aquarius":                                      "Verseau",
+        "pisces":                                      "Poissons",
+        "aries":                                      "Bélier",
+        "taurus":                                      "Taureau",
+        "gemini":                                      "Gémeaux",
+        "cancer":                                      "Cancer",
+        "leo":                                      "Leo",
+        "virgo":                                      "Vierge",
+        "libra":                                      "Balance",
+        "scorpio":                                      "Scorpion",
+        "sagittarius":                                      "Sagittaire"
+    },
+    "splash": {
+        "welcome":                                      "Horoscopes du jour"
+    },
+    "onBoard": {
+        "page1": {
+            "title":                                      "Horoscopes du jour",
+            "desc":                                      "Horoscopes quotidiens d'hier, d'aujourd'hui et de demain."
+        },
+        "page2": {
+            "title":                                      "Détails de l'horoscope",
+            "desc":                                      "Des prédictions avec des détails comme la compatibilité avec l'horoscope, l'humeur, la couleur, le numéro porte-bonheur et l'heure chanceuse."
+        },
+        "page3": {
+            "title":                                      "Facile à utiliser",
+            "desc":                                      "Il vous permet de suivre les prévisions de l'horoscope de manière simple."
+        },
+        "getStarted":                                      "Commencer",
+        "onBoardSubView": {
+            "name":                                      "Nom",
+            "date":                                      "Date de naissance",
+            "button":                                      "Sauvegarder"
+        }
+    },
+    "home": {
+        "appBarTitle":                                      "Horoscopes du jour",
+        "welcome":                                      "Accueillir, ",
+        "tabBar": {
+            "yesterday":                                      "Hier",
+            "today":                                      "Aujourd'hui",
+            "tomorrow":                                      "Demain"
+        },
+        "explore":                                      "Explorer",
+        "luckyNumber":                                      "Nombre chanceux",
+        "luckyTime":                                      "Temps chanceux",
+        "color":                                      "Couleur",
+        "mood":                                      "Ambiance",
+        "dateRange":                                      "Plage de dates",
+        "compatibility":                                      "Compatibilité",
+        "alert": {
+            "title":                                      "Se déconnecter",
+            "desc":                                      "Voulez-vous vraiment vous déconnecter ?",
+            "continue":                                      "Continuer",
+            "cancel":                                      "Annuler"
+        }
+
+    },
+    "notFound":                                      "Pas trouvé",
+    "isValidName":                                      "Le nom n'est pas valide !",
+    "isValidBirthDate":                                      "La date de naissance n'est pas valide !"
+}

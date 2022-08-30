@@ -1,0 +1,65 @@
+{
+    "sign": {
+        "capricorn":                               "염소자리",
+        "aquarius":                                       "물병자리",
+        "pisces":                                       "물고기",
+        "aries":                                       "양자리",
+        "taurus":                                       "황소자리",
+        "gemini":                                       "쌍둥이자리",
+        "cancer":                                       "게자리",
+        "leo":                                       "사자별자리",
+        "virgo":                                       "처녀자리",
+        "libra":                                       "천칭자리",
+        "scorpio":                                       "전갈자리",
+        "sagittarius":                                       "궁수자리"
+    },
+    "splash": {
+        "welcome":                                       "일별 운세"
+    },
+    "onBoard": {
+        "page1": {
+            "title":                                       "일별 운세",
+            "desc":                                       "어제, 오늘, 내일의 일일 운세."
+        },
+        "page2": {
+            "title":                                       "운세 세부 사항",
+            "desc":                                       "운세 호환성, 기분, 색상, 행운의 숫자, 행운의 시간과 같은 세부 정보가 포함된 예측."
+        },
+        "page3": {
+            "title":                                       "사용하기 쉽습니다",
+            "desc":                                       "당신이 쉬운 방법으로 운세 예측을 따를 수 있습니다."
+        },
+        "getStarted":                                       "시작하다",
+        "onBoardSubView": {
+            "name":                                       "이름",
+            "date":                                       "생일",
+            "button":                                       "저장"
+        }
+    },
+    "home": {
+        "appBarTitle":                                       "일별 운세",
+        "welcome":                                       "어서 오십시오, ",
+        "tabBar": {
+            "yesterday":                                       "어제",
+            "today":                                       "오늘",
+            "tomorrow":                                       "내일"
+        },
+        "explore":                                       "둘러보다",
+        "luckyNumber":                                       "행운의 숫자",
+        "luckyTime":                                       "행운의시간",
+        "color":                                       "색깔",
+        "mood":                                       "분위기",
+        "dateRange":                                       "날짜 범위",
+        "compatibility":                                       "호환성",
+        "alert": {
+            "title":                                       "로그 아웃",
+            "desc":                                       "정말로 로그아웃하시겠습니까?",
+            "continue":                                       "계속하다",
+            "cancel":                                       "취소"
+        }
+
+    },
+    "notFound":                                       "찾을 수 없음",
+    "isValidName":                                       "이름이 잘못되었습니다!",
+    "isValidBirthDate":                                       "생년월일이 유효하지 않습니다!"
+}

@@ -1,0 +1,65 @@
+{
+    "sign": {
+        "capricorn":                              "Capricorno",
+        "aquarius":                                      "Acquario",
+        "pisces":                                      "Pesci",
+        "aries":                                      "Ariete",
+        "taurus":                                      "Toro",
+        "gemini":                                      "Gemelli",
+        "cancer":                                      "Cancro",
+        "leo":                                      "Leo",
+        "virgo":                                      "Vergine",
+        "libra":                                      "Libra",
+        "scorpio":                                      "Scorpione",
+        "sagittarius":                                      "Sagittario"
+    },
+    "splash": {
+        "welcome":                                      "Oroscopo del giorno"
+    },
+    "onBoard": {
+        "page1": {
+            "title":                                      "Oroscopo del giorno",
+            "desc":                                      "Oroscopi quotidiani per ieri, oggi e domani."
+        },
+        "page2": {
+            "title":                                      "Dettagli oroscopo",
+            "desc":                                      "Previsioni con dettagli come compatibilità dell'oroscopo, stato d'animo, colore, numero fortunato e ora fortunata."
+        },
+        "page3": {
+            "title":                                      "Facile da usare",
+            "desc":                                      "Ti permette di seguire le previsioni dell'oroscopo in modo semplice."
+        },
+        "getStarted":                                      "Iniziare",
+        "onBoardSubView": {
+            "name":                                      "Nome",
+            "date":                                      "Data di nascita",
+            "button":                                      "Salva"
+        }
+    },
+    "home": {
+        "appBarTitle":                                      "Oroscopo del giorno",
+        "welcome":                                      "Ben arrivato, ",
+        "tabBar": {
+            "yesterday":                                      "Ieri",
+            "today":                                      "In data odierna",
+            "tomorrow":                                      "Domani"
+        },
+        "explore":                                      "Esplorare",
+        "luckyNumber":                                      "Numero fortunato",
+        "luckyTime":                                      "Tempo fortunato",
+        "color":                                      "Colore",
+        "mood":                                      "Stato d'animo",
+        "dateRange":                                      "Intervallo di date",
+        "compatibility":                                      "Compatibilità",
+        "alert": {
+            "title":                                      "Disconnettersi",
+            "desc":                                      "Vuoi davvero disconnetterti?",
+            "continue":                                      "Continua",
+            "cancel":                                      "Annulla"
+        }
+
+    },
+    "notFound":                                      "Non trovato",
+    "isValidName":                                      "Il nome non è valido!",
+    "isValidBirthDate":                                      "La data di nascita non è valida!"
+}

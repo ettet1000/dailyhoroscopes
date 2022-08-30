@@ -1,0 +1,65 @@
+{
+    "sign": {
+        "capricorn":                             "Capricornio",
+        "aquarius":                                     "Acuario",
+        "pisces":                                     "Piscis",
+        "aries":                                     "Aries",
+        "taurus":                                     "Tauro",
+        "gemini":                                     "Geminis",
+        "cancer":                                     "Cáncer",
+        "leo":                                     "León",
+        "virgo":                                     "Virgo",
+        "libra":                                     "Libra",
+        "scorpio":                                     "Escorpión",
+        "sagittarius":                                     "Sagitario"
+    },
+    "splash": {
+        "welcome":                                     "Horóscopos diarios"
+    },
+    "onBoard": {
+        "page1": {
+            "title":                                     "Horóscopos diarios",
+            "desc":                                     "Horóscopos diarios de ayer, hoy y mañana"
+        },
+        "page2": {
+            "title":                                     "Detalles del horóscopo",
+            "desc":                                     "Predicciones con detalles como la compatibilidad del horóscopo, el estado de ánimo, el color, el número de la suerte y la hora de la suerte"
+        },
+        "page3": {
+            "title":                                     "Fácil de usar",
+            "desc":                                     "Te permite seguir las predicciones del horóscopo de una manera fácil"
+        },
+        "getStarted":                                     "Empezar",
+        "onBoardSubView": {
+            "name":                                     "Nombre",
+            "date":                                     "Fecha de nacimiento",
+            "button":                                     "Ahorrar"
+        }
+    },
+    "home": {
+        "appBarTitle":                                     "Horóscopos diarios",
+        "welcome":                                     "Bienvenidos, ",
+        "tabBar": {
+            "yesterday":                                     "El dia de ayer",
+            "today":                                     "Este Dia",
+            "tomorrow":                                     "Mañana"
+        },
+        "explore":                                     "Explorar",
+        "luckyNumber":                                     "Número de la suerte",
+        "luckyTime":                                     "Tiempo de suerte",
+        "color":                                     "Color",
+        "mood":                                     "Estado animico",
+        "dateRange":                                     "Rango de fechas",
+        "compatibility":                                     "Compatibilidad",
+        "alert": {
+            "title":                                     "Cerrar sesión",
+            "desc":                                     "¿De verdad quieres cerrar la sesión?",
+            "continue":                                     "Continuar",
+            "cancel":                                     "Cancelar"
+        }
+
+    },
+    "notFound":                                     "Extraviado",
+    "isValidName":                                     "¡El nombre no es válido!",
+    "isValidBirthDate":                                     "¡Fecha de nacimiento no es válida!"
+}
