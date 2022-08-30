@@ -1,0 +1,65 @@
+{
+    "sign": {
+        "capricorn":                            "Steinbock",
+        "aquarius":                                    "Wassermann",
+        "pisces":                                    "Fische",
+        "aries":                                    "Widder",
+        "taurus":                                    "Stier",
+        "gemini":                                    "Zwillinge",
+        "cancer":                                    "Krebs",
+        "leo":                                    "Löwe",
+        "virgo":                                    "Jungfrau",
+        "libra":                                    "Waage",
+        "scorpio":                                    "Skorpion",
+        "sagittarius":                                    "Schütze"
+    },
+    "splash": {
+        "welcome":                                    "Tageshoroskope"
+    },
+    "onBoard": {
+        "page1": {
+            "title":                                    "Tageshoroskope",
+            "desc":                                    "Tageshoroskope für gestern, heute und morgen."
+        },
+        "page2": {
+            "title":                                    "Horoskopdetails",
+            "desc":                                    "Vorhersagen mit Details wie Horoskop-Kompatibilität, Stimmung, Farbe, Glückszahl und Glücksstunde."
+        },
+        "page3": {
+            "title":                                    "Einfach zu verwenden",
+            "desc":                                    "Es ermöglicht Ihnen, die Vorhersagen des Horoskops auf einfache Weise zu verfolgen."
+        },
+        "getStarted":                                    "Loslegen",
+        "onBoardSubView": {
+            "name":                                    "Name",
+            "date":                                    "Geburtsdatum",
+            "button":                                    "Speichern"
+        }
+    },
+    "home": {
+        "appBarTitle":                                    "Tageshoroskope",
+        "welcome":                                    "Herzlich willkommen, ",
+        "tabBar": {
+            "yesterday":                                    "Gestern",
+            "today":                                    "Heute",
+            "tomorrow":                                    "Morgen"
+        },
+        "explore":                                    "Entdecken",
+        "luckyNumber":                                    "Glückszahl",
+        "luckyTime":                                    "Glückliche Zeit",
+        "color":                                    "Farbe",
+        "mood":                                    "Stimmung",
+        "dateRange":                                    "Datumsbereich",
+        "compatibility":                                    "Kompatibilität",
+        "alert": {
+            "title":                                    "Ausloggen",
+            "desc":                                    "Möchten Sie sich wirklich abmelden?",
+            "continue":                                    "Fortsetzen",
+            "cancel":                                    "Absagen"
+        }
+
+    },
+    "notFound":                                    "Nicht gefunden",
+    "isValidName":                                    "Name nicht gültig!",
+    "isValidBirthDate":                                    "Geburtsdatum ist ungültig!"
+}
